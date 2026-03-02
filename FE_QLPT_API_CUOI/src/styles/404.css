@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.notfound {
+  background-color: white;
+}
+
+.notfound .sos {
+  font-size: 70px;
+  color: black;
+
+  position: absolute;
+  left: 50%;
+  top: 10%;
+  transform: translate(-50%, -50%);
+  z-index: 2; /* Đảm bảo chữ nằm trên cùng */
+}
+
+.notfound .text {
+  font-size: 30px;
+  color: black;
+
+  padding-top: 200px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2; /* Đảm bảo chữ nằm trên cùng */
+}
+
+.notfound .text-sub {
+  font-size: 15px;
+  color: #666;
+
+  padding-top: 260px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2; /* Đảm bảo chữ nằm trên cùng */
+}
+.notfound {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  top: 0;
+}
+
+.notfound .gif {
+  width: 50%;
+  position: relative;
+}
+
+.notfound-btn-div {
+    position: absolute;
+    left: 50%;
+    top: 75%;
+    transform: translate(-50%, -50%);
+    z-index: 2; /* Đảm bảo chữ nằm trên cùng */
+}
+
+.notfound .notfound-btn {
+    color: white;
+    background: #9C6ADE;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+    outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+}
+

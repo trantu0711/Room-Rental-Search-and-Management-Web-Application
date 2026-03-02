@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f9f6ff;
+  /* font-family: Arial, sans-serif; */
+}
+
+.page-chutro {
+  display: flex;
+  width: 100vw;
+  
+  overflow: hidden; /* ngăn tràn layout */
+}
+
+
+.admin-container {
+  background-color: #ffffff;
+
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  width: 20vw;
+  height: 100vh;
+  box-sizing: border-box; /* Đảm bảo padding không làm tăng kích thước tổng thể */
+  position: fixed; /* Giúp menu cố định tại 1 vị trí trên màn hình */
+  top: 0; /* Đặt nó ở trên cùng */
+  left: 0;
+  color: black;
+  
+}
+
+/* ---------------- menu------------ */
+.chutro-menu-list {
+  list-style-type: none; /* Loại bỏ dấu chấm đầu dòng */
+  padding: 20px 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column; /* Sắp xếp các mục theo cột dọc */
+  /* gap: 20px; Tạo khoảng cách giữa các mục */
+}
+
+.chutro-menu-list li {
+  color: black;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  padding: 15px 25px; 
+  display: flex; /* Biến mỗi mục thành flex container */
+  align-items: center; /* Căn giữa nội dung theo chiều dọc */
+  /* gap: 10px; */
+  font-size: 20px;
+}
+
+.chutro-menu-list li:hover {
+  background-color: #f9f6ff;
+}
+
+.chutro-menu-list li:focus {
+  background-color: #f9f6ff;
+  color: #9c6ade;
+}
+
+/* .chutro-menu-list .active {
+  background-color: #f9f6ff;
+  color: #9c6ade;
+} */
+
+
+
+/*---------------------- icon trong menu --------------- */
+.chutro-menu-list li i {
+  font-size: 24px;
+  margin-right: 10px;
+  
+}
+
+.ct-dangxuat {
+  color: black;
+  font-weight: 600;
+}
+
+
+/* --------------------phần logo vs tên-------------------- */
+.chutro-avatar img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid #666;
+  padding: 4px;
+  object-fit: cover;
+}
+
+.chutro-avatar {
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.admin-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-top: 10px;
+  height: 70px;
+}
+
+.admin-title h4 {
+  margin: 0;
+ 
+}
+
+.admin-title p {
+  margin: 0;
+   font-size: 15px;
+   color: #666;
+}
+
+.admin-title .ct-email {
+  font-size: 14px;
+}
+
+hr {
+    /* Xóa đường viền 3D mặc định của trình duyệt */
+  border: none;
+  /* chiều cao (độ dày) cho đường kẻ */
+  height: 1px; 
+  
+  background-color: #ddd;
+}
+
+/* ----------------------phần nội dung bên phải------------- */
+.chutro-container-right {
+  width: 80vw;
+  margin-left: auto;
+
+  height: 100vh;          
+  overflow-y: auto;       /* thêm - scroll riêng */
+ 
+  box-sizing: border-box; /* sạch layout */
+}
+

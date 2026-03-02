@@ -1,0 +1,301 @@
+/* Màu sắc cơ bản */
+:root {
+    --primary-orange: #f26b2b;
+    --light-bg-orange: #fff8f2; /* Màu nền nhạt như ảnh */
+    --text-color-dark: #333;
+    --text-color-light: #666;
+    --border-color: #ddd;
+    --input-bg: #f5f5f5;
+    --error-red: #e74c3c;
+}
+
+body {
+    margin: 0;
+    background-color: #F9F6FF; /* Màu nền của body */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.page-dangky {
+    width: 100%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    height: 100%;
+}
+
+
+
+/* Card chứa form */
+.form-card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    max-width: 500px; /* Chiều rộng tối đa của form */
+    overflow: hidden; /* Đảm bảo bo tròn góc */
+    padding: 5px 20px;
+}
+
+/* Nội dung form */
+.register-form-content {
+    padding: 0 40px 30px; /* Padding chỉ bên dưới và 2 bên */
+}
+
+.form-group {
+    margin-bottom: 20px;
+    position: relative; /* Dành cho error message */
+}
+
+/* chỉnh phần input */
+.TieuDe {
+    color: #9C6ADE;
+    text-align: center;
+}
+
+.chuyentrang-dangky {
+    text-align: center;
+}
+
+.chuyentrang  {
+    color: #9C6ADE;
+    text-decoration: none;
+    font-size: 17px;
+   
+}
+
+.chuyentrang:hover {
+    text-decoration: underline; /*thêm dấu gạch chân */
+    color: #9C6ADE;
+    
+}
+
+
+.form-group input {
+    width: 100%;
+    padding: 14px 15px;
+    border: 1px solid var(--border-color);
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: var(--input-bg);
+    box-sizing: border-box;
+    color: var(--text-color-dark);
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.form-group input::placeholder {
+    color: #999;
+}
+
+.form-group input:focus {
+    border-color: #C5A3FF; /* Màu xanh nhẹ khi focus */
+    box-shadow: 0 0 0 2px rgba(160, 217, 227, 0.2);
+    outline: none;
+}
+
+.form-group .input-error {
+    border-color: var(--error-red);
+}
+
+.error-message {
+    color: var(--error-red);
+    font-size: 13px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    position: absolute; /* Đặt lỗi ngay dưới input */
+    left: 0;
+    width: 100%;
+}
+
+/* Nhóm Radio buttons */
+.radio-group {
+    margin-top: 25px; /* Khoảng cách so với input trên */
+    margin-bottom: 30px; /* Khoảng cách so với nút submit */
+    display: flex;
+    align-items: center; /* Căn giữa theo chiều dọc */
+    gap: 15px;
+}
+
+.radio-group .radio-label {
+    font-size: 16px;
+    color: var(--text-color-dark);
+    font-weight: normal; /* Không in đậm */
+    white-space: nowrap; /* Ngăn không cho chữ "Loại tài khoản" xuống dòng */
+}
+
+.radio-options {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap; /* Cho phép xuống dòng trên màn hình nhỏ */
+}
+
+/* Custom radio button */
+.custom-radio {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 15px;
+    color: var(--text-color-dark);
+}
+
+.custom-radio input[type="radio"] {
+    /* Ẩn radio button mặc định */
+    opacity: 0;
+    position: absolute;
+    width: 0;
+    height: 0;
+}
+
+.custom-radio span {
+    position: relative;
+    padding-left: 25px; /* Khoảng trống cho radio giả */
+    line-height: 20px;
+    transition: color 0.2s;
+}
+
+.custom-radio span::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 18px;
+    height: 18px;
+    border: 1px solid var(--border-color);
+    border-radius: 50%;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.custom-radio span::after {
+    content: '';
+    position: absolute;
+    left: 4px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 10px;
+    height: 10px;
+    background-color: #9C6ADE; /* Màu chấm tròn khi chọn */
+    border-radius: 50%;
+    opacity: 0;
+    transition: opacity 0.2s;
+}
+
+.custom-radio input[type="radio"]:checked + span::after {
+    opacity: 1;
+}
+/* khi nhấn nút hiện màu chữ*/
+.custom-radio:hover span {
+    color: #9C6ADE;
+}
+
+
+/* Nút Đăng ký */
+.submit-button {
+    width: 100%;
+    padding: 15px 20px ;
+    background-color: #9C6ADE;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s, box-shadow 0.2s;
+    margin-top: 10px ;/* Để cách dòng chữ "Loại tài khoản" */
+    margin-bottom: 20px; /* Khoảng cách dưới nút submit */
+    box-shadow: 0 2px 5px rgba(242, 107, 43, 0.3); /* Tạo hiệu ứng nổi nhẹ */
+    outline: none !important;
+}
+
+.submit-button:hover {
+    background-color: #B388EB; 
+    /* box-shadow: 0 4px 8px #C5A3FF; */
+}
+
+/* Chân trang */
+.terms-text {
+    font-size: 13px;
+    color: var(--text-color-light);
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 40px;
+    line-height: 1.5;
+}
+
+.terms-text span {
+    color: #9C6ADE;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.terms-text a:hover {
+    text-decoration: underline;
+}
+
+.copyright-text {
+    font-size: 12px;
+    color: #999;
+    text-align: center;
+    margin-top: 15px;
+    padding-bottom: 20px;
+    padding: 0 40px 20px;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .main-wrapper {
+        flex-direction: column; /* Xếp chồng form và banner */
+        align-items: center;
+        gap: 20px;
+    }
+
+    .form-card {
+        max-width: 90%; /* Rộng hơn trên di động */
+        margin-top: 20px;
+    }
+
+    .tab-header {
+        margin-bottom: 20px;
+    }
+
+    
+    .terms-text,
+    .copyright-text {
+        padding: 0 25px 20px; 
+    }
+
+}
+
+@media (max-width: 480px) {
+    form {
+        padding: 20px 25px;
+    }
+    .form-group input {
+        padding: 12px 10px;
+        font-size: 15px;
+    }
+    .tab-button {
+        font-size: 16px;
+        padding: 15px 10px;
+    }
+    .radio-group {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+    .radio-options {
+        flex-direction: column; /* Xếp chồng các radio option */
+        gap: 8px;
+        width: 100%; /* Đảm bảo chiếm đủ chiều rộng */
+    }
+    .custom-radio {
+        width: 100%; /* Kéo dài radio label */
+    }
+}
+

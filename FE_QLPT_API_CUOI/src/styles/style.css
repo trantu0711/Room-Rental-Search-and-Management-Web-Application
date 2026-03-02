@@ -1,0 +1,183 @@
+.index-page {
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+
+  display: flex;            /* thêm */
+  justify-content: center;  /* canh giữa theo chiều ngang */
+  flex-wrap: wrap; /* cho phép xuống dòng nếu không đủ chỗ  */
+ 
+
+}
+
+/* -------------phần body chính------------------ */
+/* chặn tràn ngang */
+html, body {
+  overflow-x: hidden;
+}
+
+.body {
+  width: 80vw;
+  margin: 0;
+  background-color: #f9f6ff; /* Màu nền của body */
+  display: flex;
+  /* justify-content: center; */
+  /* align-items: flex-start; */
+  min-height: 100vh;
+
+ 
+  box-sizing: border-box;
+  gap: 40px;
+  flex-direction: column; /*  2 .form xuống dòng */
+}
+
+/* Card chứa form */
+.form {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px; /* Padding bên trong form */
+  display: flex;
+  /* justify-content: space-between; */
+  gap: 20px;
+  /* box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); */
+  flex-direction: column; /* Đặt nội dung theo cột (tiêu đề trên, sp dưới) */
+  
+}
+
+.form2 {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px; /* Padding bên trong form */
+  display: flex;
+  /* justify-content: space-between; */
+  gap: 10px;
+  /* box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); */
+  flex-direction: column; /* 👈 Đặt nội dung theo cột (tiêu đề trên, sp dưới) */
+}
+
+.list-sp {
+  display: grid;
+  /* Chia thành 4 cột bằng nhau (1fr = 1 phần) */
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.card-sp {
+  border-radius: 8px;
+  padding: 20px; /* Padding bên trong card */
+  text-align: left;
+  transition: all 0.3s ease;
+  border: 1px solid #ddd;
+}
+
+.card-sp:hover {
+  box-shadow: 0 4px 12px rgba(156, 106, 222, 0.3);
+  cursor: pointer;
+}
+
+.card-gia {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-img {
+  width: 100%;
+  height: 200px;
+}
+
+.card-img img {
+  width: 100%;
+  border-radius: 8px;
+  height: 100%;
+  object-fit: cover; /* Để ảnh không bị méo */
+}
+
+.card-img video {
+  width: 100%;
+  border-radius: 8px;
+  height: 100%;
+  object-fit: cover; /* Để ảnh không bị méo */
+}
+
+.card-dm {
+  margin: -20px;
+  padding-left: 20px;
+}
+
+.card-dm h3 {
+  text-align: left;
+  color: black;
+}
+
+.card-td {
+  height: 60px;
+  color: black;
+}
+
+.card-td:hover {
+  color: #9c6ade;
+}
+
+.card-gia .gia {
+  color: #e03c31;
+}
+
+.card-gia .dt {
+  color: #666;
+}
+
+.card-dc {
+  color: #666;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+/* -----------nút xem thêm phòng -------------- */
+.btn-xemthem {
+  margin: auto;
+}
+
+.btn-xemthem button{
+  background-color: white;
+  border: 1px solid #9c6ade;
+  color: black;
+  outline: none !important;
+
+}
+
+.btn-xemthem button:hover{
+  background-color: #9c6ade;
+  color: white;
+
+}
+
+/* --------------------phần banner-------------------- */
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ----------------------phần footer----------------------------------*/
+.footer {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ----------- */
+@media (max-width: 1024px) {
+  .list-sp {
+    /* 2 cột trên tablet */
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .list-sp {
+    /* 1 cột trên mobile */
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f9f6ff;
+  /* font-family: Arial, sans-serif; */
+}
+
+.admin {
+  display: flex; 
+  width: 100vw;
+  height: 100vh; /* 2. Cao 100% màn hình */
+}
+
+.admin-container {
+  background-color: #ffffff;
+
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  width: 20vw;
+  height: 100vh;
+  box-sizing: border-box; /* Đảm bảo padding không làm tăng kích thước tổng thể */
+  position: fixed; /* Giúp menu cố định tại 1 vị trí trên màn hình */
+  top: 0; /* Đặt nó ở trên cùng */
+  left: 0;
+  color: black;
+  
+}
+
+/* ---------------- menu------------ */
+.admin-menu-list {
+  list-style-type: none; /* Loại bỏ dấu chấm đầu dòng */
+  padding: 0;
+  padding-top: 20px;
+  margin: 0;
+  display: flex;
+  flex-direction: column; /* Sắp xếp các mục theo cột dọc */
+  /* gap: 20px; Tạo khoảng cách giữa các mục */
+}
+
+.admin-menu-list li {
+  color: black;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  padding: 15px 25px;
+  display: flex; /* Biến mỗi mục thành flex container */
+  align-items: center; /* Căn giữa nội dung theo chiều dọc */
+  /* gap: 10px; */
+  font-size: 20px;
+}
+.admin-menu-list li:hover {
+  background-color: #e6e0f8;
+}
+/*---------------------- icon trong menu --------------- */
+.admin-menu-list li i {
+  font-size: 24px;
+  margin-right: 10px;
+  
+}
+
+/* --------------------phần logo vs admin-------------------- */
+.admin-logo img {
+  width: 70px;
+  padding-left: 30px;
+}
+
+.admin-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-top: 10px;
+}
+
+.admin-title h2 {
+  margin: 0;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.admin-title span {
+  margin: 0;
+  padding-left: 20px;
+}
+
+/* ----------------------phần nội dung bên phải------------- */
+.admin-container-right {
+  background: #000;
+  width: 80vw;
+  margin-left: auto;
+  height: 100vh;
+}
+
+/*------------------ màu icon từng mục trong menu --------------- */
+.ad-home i {
+  /* color: #ffa533; */
+  /* color: #159FE2; */
+  /* color: #8e44ad; */
+  /* color: #f1c40f; */
+  /* color: #9b59b6; */
+  /* color: #ff8c33; */
+  color: #9c6ade;
+
+}
+
+.ad-user i {
+  color: #ff5733;
+}
+
+.ad-baidang i {
+  color: #33c1ff;
+}
+
+.ad-comment i {
+  color: #33ff57;
+}
+
+.ad-tienich i {
+  color: #ff33a8;
+}
+
+.ad-comment-ban i {
+  color: #ff3333;
+}

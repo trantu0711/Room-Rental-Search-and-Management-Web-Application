@@ -1,0 +1,690 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\helpers\\autoupdatehopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\helpers\\autoupdatehopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\lienhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\lienhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\helpers\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\helpers\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\phongtrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\phongtrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\hopdongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\hopdongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\baidangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\baidangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\cdanhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\cdanhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\thanhtoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\thanhtoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\models\\phongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\models\\phongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\cphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\cphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\cbaidang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\cbaidang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\models\\baidang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\models\\baidang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\danhgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\danhgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\models\\dbluanvancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\models\\dbluanvancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\cdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\cdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\cdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\cdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\anhphongtrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\anhphongtrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\chopdonginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\chopdonginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\models\\hopdongmau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\models\\hopdongmau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\models\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\models\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\cnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\cnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\cchitietbaidang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\cchitietbaidang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\cthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\cthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\tucamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\tucamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\models\\lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\models\\lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\models\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\models\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\models\\danhgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\models\\danhgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\cloc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\cloc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\clienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\clienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\mymodels\\ctucam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\mymodels\\ctucam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|d:\\\u0111\u1ED3 \u00E1n\\lu\u1EADn v\u0103n\\b\u1EA3n cu\u1ED1i c\u00F9ng\\be_qlnt_api_cuoi\\be_qlnt\\be_qlnt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1351337-0752-46A1-B44F-131048C44217}|BE_QLNT\\BE_QLNT.csproj|solutionrelative:be_qlnt\\be_qlnt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\ban_1.0\\BE_QLNT\\BE_QLNT\\Models\\DBLuanVanContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\appsettings.json",
+              "RelativeDocumentMoniker": "BE_QLNT\\appsettings.json",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\appsettings.json",
+              "RelativeToolTip": "BE_QLNT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-26T07:52:18.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Program.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Program.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Program.cs",
+              "RelativeToolTip": "BE_QLNT\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:31:16.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Helpers\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Helpers\\VnPayLibrary.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Helpers\\VnPayLibrary.cs",
+              "RelativeToolTip": "BE_QLNT\\Helpers\\VnPayLibrary.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:55:37.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LienHeController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\LienHeController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\LienHeController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\LienHeController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\LienHeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:53:08.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:59:10.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\NguoiDungController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:31:16.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoUpdateHopDong.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Helpers\\AutoUpdateHopDong.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Helpers\\AutoUpdateHopDong.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Helpers\\AutoUpdateHopDong.cs",
+              "RelativeToolTip": "BE_QLNT\\Helpers\\AutoUpdateHopDong.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwF4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:27:59.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhongTroController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\PhongTroController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\PhongTroController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\PhongTroController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\PhongTroController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAgwGoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:59:55.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaiDangController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\BaiDangController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\BaiDangController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\BaiDangController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\BaiDangController.cs",
+              "ViewState": "AgIAAEQCAAAAAAAAAAAAwBwCAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:54:13.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HopDongController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\HopDongController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\HopDongController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\HopDongController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\HopDongController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:54:55.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThanhToanController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\ThanhToanController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\ThanhToanController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\ThanhToanController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\ThanhToanController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwI0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:40:11.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAcwFcBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:58:32.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhongTro.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\PhongTro.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Models\\PhongTro.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\PhongTro.cs",
+              "RelativeToolTip": "BE_QLNT\\Models\\PhongTro.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:42:48.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CPhongTro.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CPhongTro.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CPhongTro.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CPhongTro.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CPhongTro.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:31:16.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CBaiDang.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CBaiDang.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CBaiDang.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CBaiDang.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CBaiDang.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:31:16.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CDanhGia.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CDanhGia.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CDanhGia.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CDanhGia.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CDanhGia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:24:50.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaiDang.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\BaiDang.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Models\\BaiDang.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\BaiDang.cs",
+              "RelativeToolTip": "BE_QLNT\\Models\\BaiDang.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T15:39:24.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DBLuanVanContext.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\DBLuanVanContext.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Models\\DBLuanVanContext.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\DBLuanVanContext.cs",
+              "RelativeToolTip": "BE_QLNT\\Models\\DBLuanVanContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T15:39:15.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CDangNhap.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CDangNhap.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CDangNhap.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CDangNhap.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CDangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:31:16.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CDangKy.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CDangKy.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CDangKy.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CDangKy.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CDangKy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:31:16.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DanhGiaController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\DanhGiaController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\DanhGiaController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\DanhGiaController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\DanhGiaController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:22:48.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AnhPhongTroController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\AnhPhongTroController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\AnhPhongTroController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\AnhPhongTroController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\AnhPhongTroController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:13:07.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CHopDongInput.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CHopDongInput.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CHopDongInput.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CHopDongInput.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CHopDongInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:48:36.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TimKiemController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\TimKiemController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\TimKiemController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\TimKiemController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\TimKiemController.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAuwMEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:00:09.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HopDong.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\HopDong.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Models\\HopDong.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\HopDong.cs",
+              "RelativeToolTip": "BE_QLNT\\Models\\HopDong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:52:03.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HopDongMau.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\HopDongMau.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Models\\HopDongMau.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\HopDongMau.cs",
+              "RelativeToolTip": "BE_QLNT\\Models\\HopDongMau.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:16:13.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CNguoiDung.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CNguoiDung.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CNguoiDung.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CNguoiDung.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CNguoiDung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:29:54.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CChiTietBaiDang.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CChiTietBaiDang.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CChiTietBaiDang.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CChiTietBaiDang.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CChiTietBaiDang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:31:15.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Models\\NguoiDung.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "BE_QLNT\\Models\\NguoiDung.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T14:16:16.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CThanhToan.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CThanhToan.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CThanhToan.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CThanhToan.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CThanhToan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:18:02.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TuCamController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\TuCamController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\TuCamController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\TuCamController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\TuCamController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwDUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:00:30.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LienHe.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\LienHe.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Models\\LienHe.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\LienHe.cs",
+              "RelativeToolTip": "BE_QLNT\\Models\\LienHe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:00:48.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BE_QLNT\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:05:50.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ThanhToan.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Models\\ThanhToan.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\ThanhToan.cs",
+              "RelativeToolTip": "BE_QLNT\\Models\\ThanhToan.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T03:44:18.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DanhGium.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\DanhGium.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\Models\\DanhGium.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\Models\\DanhGium.cs",
+              "RelativeToolTip": "BE_QLNT\\Models\\DanhGium.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:26:45.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CLoc.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CLoc.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CLoc.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CLoc.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CLoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:26:45.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CLienHe.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CLienHe.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CLienHe.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CLienHe.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CLienHe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:00:54.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CTuCam.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CTuCam.cs",
+              "RelativeDocumentMoniker": "BE_QLNT\\MyModels\\CTuCam.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\MyModels\\CTuCam.cs",
+              "RelativeToolTip": "BE_QLNT\\MyModels\\CTuCam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:48:04.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BE_QLNT\\appsettings.Development.json",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\appsettings.Development.json",
+              "RelativeToolTip": "BE_QLNT\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-26T08:08:29.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BE_QLNT.csproj",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\BE_QLNT.csproj",
+              "RelativeDocumentMoniker": "BE_QLNT\\BE_QLNT.csproj",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\B\u1EA3n cu\u1ED1i c\u00F9ng\\BE_QLNT_API_CUOI\\BE_QLNT\\BE_QLNT.csproj",
+              "RelativeToolTip": "BE_QLNT\\BE_QLNT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-26T07:54:36.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DBLuanVanContext.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\ban_1.0\\BE_QLNT\\BE_QLNT\\Models\\DBLuanVanContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\ban_1.0\\BE_QLNT\\BE_QLNT\\Models\\DBLuanVanContext.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n\\Lu\u1EADn v\u0103n\\ban_1.0\\BE_QLNT\\BE_QLNT\\Models\\DBLuanVanContext.cs",
+              "RelativeToolTip": "..\\..\\ban_1.0\\BE_QLNT\\BE_QLNT\\Models\\DBLuanVanContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:20:41.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

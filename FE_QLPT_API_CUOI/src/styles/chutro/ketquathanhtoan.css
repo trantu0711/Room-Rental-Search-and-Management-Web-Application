@@ -1,0 +1,41 @@
+.page-kq-tt {
+    margin: 0;
+    color: black;
+    text-align: center;
+}
+
+.kq-sotien {
+    margin: 0;
+}
+
+.kq-tieude {
+    margin: 0;
+}
+
+
+.kq-noidung {
+    width: 40vw;
+    background-color: white;
+    border-radius: 10px;
+    padding: 0 40px 40px 40px;
+    box-sizing: border-box;
+}
+
+.kq-tgian {
+    display: flex;
+    justify-content: space-between;
+}
+
+.kq-tgian p {
+    margin: 0;
+    padding: 10px 0;
+}
+
+.kq-btn {
+    background-color: #9c6ade;
+}
+
+.kq-hr {
+    background-color: #9c6ade;
+    height: 0.5px;
+}

@@ -1,0 +1,53 @@
+/* giao diện popup */
+.page-thongbao {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  /* Bump z-index above popups */
+  z-index: 2000001;
+}
+
+.thongbao-popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  /* Bump popup itself above overlays */
+  z-index: 2000002;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; 
+  width: 400px;
+}
+
+/* phần icon trong popup */
+.thongbao-icon {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+/* phần message trong popup */
+.thongbao-message {
+  padding-right: 10px;
+}
+
+.thongbao-message h3 {
+  margin: 0 0 10px 0;
+  font-size: 18px;
+}
+
+.thongbao-message p {
+  margin: 0; 
+  white-space: pre-line;
+}
+

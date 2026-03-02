@@ -1,0 +1,47 @@
+.page-gioithieu {
+    color: black;
+    
+}
+
+.gt-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.div-gt {
+    background-color: white;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+.div-gt p {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.div-gt i {
+    font-size: 35px;
+    color: #9c6ade;
+}
+
+/* .div-gt span {
+    
+} */
+
+.gt-td {
+    display: flex; /* 1. Kích hoạt Flexbox */
+  justify-content: center; /* 2. Căn giữa theo chiều ngang */
+  align-items: center; /* 3. Căn giữa theo chiều dọc (nếu có height) */
+  
+  /* Các style khác */
+  width: 100%; /* Đảm bảo nó rộng hết cha để căn giữa được */
+  font-size: 30px;
+  font-weight: bold;
+}

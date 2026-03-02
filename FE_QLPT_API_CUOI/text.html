@@ -1,0 +1,33 @@
+
+<style>
+  .star-rating {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.star {
+  color: #ccc; /* Màu xám mặc định */
+  transition: color 0.2s;
+}
+
+/* Class này sẽ được thêm vào bằng JS khi sao được chọn */
+.star.selected {
+  color: #ffc107; /* Màu vàng */
+}
+</style>
+
+
+<div class="star-rating">
+  <span class="star" data-value="1">&#9733;</span>
+  <span class="star" data-value="2">&#9733;</span>
+  <span class="star" data-value="3">&#9733;</span>
+  <span class="star" data-value="4">&#9733;</span>
+  <span class="star" data-value="5">&#9733;</span>
+</div>
+
+<input type="hidden" name="rating" id="rating-value" value="0">
+
+<textarea placeholder="Viết bình luận của bạn..."></textarea>
+<button onclick="submitReview()">Gửi đánh giá</button>
+
+<script src="/test.js"></script>

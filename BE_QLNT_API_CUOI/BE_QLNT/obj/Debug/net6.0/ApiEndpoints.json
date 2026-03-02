@@ -1,0 +1,823 @@
+[
+  {
+    "ContainingType": "BE_QLNT.Controllers.AdminController",
+    "Method": "GetTinChoDuyet",
+    "RelativePath": "api/Admin/choduyet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.AdminController",
+    "Method": "DuyetTin",
+    "RelativePath": "api/Admin/duyet/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.AdminController",
+    "Method": "KhoaMoUser",
+    "RelativePath": "api/Admin/khoa-mo/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.AdminController",
+    "Method": "adminlaydanhsach",
+    "RelativePath": "api/Admin/laydanhsachnguoidung",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.AdminController",
+    "Method": "laydanhsachthanhtoan",
+    "RelativePath": "api/Admin/laydanhsachthanhtoan",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.AdminController",
+    "Method": "GetThongKeTongQuat",
+    "RelativePath": "api/Admin/thongke-tongquat",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.AdminController",
+    "Method": "TuChoiTin",
+    "RelativePath": "api/Admin/tuchoi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "lyDo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.AnhPhongTroController",
+    "Method": "XoaAnh",
+    "RelativePath": "api/AnhPhongTro/xoa-anh/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.AuthController",
+    "Method": "dangkytaikhoan",
+    "RelativePath": "api/Auth/dangky",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tkm",
+        "Type": "BE_QLNT.MyModels.CDangKy",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.AuthController",
+    "Method": "Dangnhaptaikhoan",
+    "RelativePath": "api/Auth/dangnhap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dn",
+        "Type": "BE_QLNT.MyModels.CDangNhap",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.BaiDangController",
+    "Method": "An",
+    "RelativePath": "api/BaiDang/Anbaidang/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.BaiDangController",
+    "Method": "capnhattt_choduyet",
+    "RelativePath": "api/BaiDang/capnhattt_choduyet/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.BaiDangController",
+    "Method": "chitietBaiDang",
+    "RelativePath": "api/BaiDang/chitietbaidang/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.BaiDangController",
+    "Method": "DangTin",
+    "RelativePath": "api/BaiDang/dangtin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TieuDe",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MoTa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TinhThanh",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "QuanHuyen",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhuongXa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SoNha",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "GiaThueBaiDang",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "DienTich",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "SoLuongPhong",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "SoNguoi",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "HinhAnh",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "HopDongPDF",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.BaiDangController",
+    "Method": "dsbaidang_chutro",
+    "RelativePath": "api/BaiDang/dsbaidang_chutro/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.BaiDangController",
+    "Method": "dsbaidang_tuongtu",
+    "RelativePath": "api/BaiDang/dsbaidang_tuongtu/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.BaiDangController",
+    "Method": "lay_ds_bd_danhgia_caonhat",
+    "RelativePath": "api/BaiDang/lay_ds_bd_danhgia_caonhat",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.BaiDangController",
+    "Method": "laydanhsachphongtro",
+    "RelativePath": "api/BaiDang/laydanhsachbaidang",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.BaiDangController",
+    "Method": "Mo",
+    "RelativePath": "api/BaiDang/Mobaidang/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.BaiDangController",
+    "Method": "SuaTin",
+    "RelativePath": "api/BaiDang/suabaidang/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TieuDe",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MoTa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TinhThanh",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "QuanHuyen",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhuongXa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SoNha",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "GiaThueBaiDang",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "DienTich",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "SoLuongPhong",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "SoNguoi",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "HinhAnh",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "HopDongPDF",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.DanhGiaController",
+    "Method": "themdanhgia",
+    "RelativePath": "api/DanhGia/danhgia",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "c",
+        "Type": "BE_QLNT.MyModels.CDanhGia",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.DanhGiaController",
+    "Method": "Laydsdanhgia",
+    "RelativePath": "api/DanhGia/laydsdanhgia",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.DanhGiaController",
+    "Method": "LayDanhGia",
+    "RelativePath": "api/DanhGia/laydsdanhgia/{baidangId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "baidangId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.HopDongController",
+    "Method": "TaoHopDong",
+    "RelativePath": "api/HopDong/taohopdong",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhongTroId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "NgayBatDau",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "NgayKetThuc",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "NoiDungHopDong",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FileHopDong",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.HopDongController",
+    "Method": "XemHopDong",
+    "RelativePath": "api/HopDong/xemhopdong/{phongTroId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phongTroId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.LienHeController",
+    "Method": "Guilienhe",
+    "RelativePath": "api/LienHe/GuiLienHe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BE_QLNT.MyModels.CLienHe",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_LVTN_QLPT_API.Controllers.NguoiDungController",
+    "Method": "SuaThongTin",
+    "RelativePath": "api/NguoiDung/suathongtin/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "HoTen",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SDT",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CCCD",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DiaChi",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "HinhAnh",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_LVTN_QLPT_API.Controllers.NguoiDungController",
+    "Method": "Xem",
+    "RelativePath": "api/NguoiDung/thongtinnguoidung/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_LVTN_QLPT_API.Controllers.NguoiDungController",
+    "Method": "TimNguoiDungTheoSdt",
+    "RelativePath": "api/NguoiDung/tim-theo-sdt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sdt",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.PhongTroController",
+    "Method": "GetPhongByBaiDang",
+    "RelativePath": "api/PhongTro/theobaidang/{baiDangId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "baiDangId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.PhongTroController",
+    "Method": "trangthai",
+    "RelativePath": "api/PhongTro/trangthai/{phongtroId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phongtroId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "trangthaimoi",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.PhongTroController",
+    "Method": "xoa",
+    "RelativePath": "api/PhongTro/xoa/{phongtroId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phongtroId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.ThanhToanController",
+    "Method": "PaymentCallback",
+    "RelativePath": "api/ThanhToan/PaymentCallback",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.ThanhToanController",
+    "Method": "Thanhtoan_vnpay",
+    "RelativePath": "api/ThanhToan/Thanhtoan_vnpay",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SoTien",
+        "Type": "System.Nullable\u00601[[System.Int64, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhuongThuc",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TrangThai",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MaGiaoDich",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "BaiDangId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.TimKiemController",
+    "Method": "LocBaiDang",
+    "RelativePath": "api/TimKiem/loc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dienTich",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "mucGia",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "tinhThanh",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "quanHuyen",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "phuongXa",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.TimKiemController",
+    "Method": "TimKiem",
+    "RelativePath": "api/TimKiem/timkiem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tukhoa",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.TuCamController",
+    "Method": "GetTuCam",
+    "RelativePath": "api/TuCam/danhsachtucam",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.TuCamController",
+    "Method": "ThemTuCam",
+    "RelativePath": "api/TuCam/them",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "c",
+        "Type": "BE_QLNT.MyModels.CTuCam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.TuCamController",
+    "Method": "XoaTuCam",
+    "RelativePath": "api/TuCam/xoa/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_QLNT.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BE_QLNT.WeatherForecast, BE_QLNT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

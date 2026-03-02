@@ -1,0 +1,231 @@
+.content {
+  background-color: #f9f6ff;
+  color: black;
+  height:89px;
+  /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); */
+  padding: 0;
+  margin: 0;
+  width: 79.4%;
+  position: fixed; /* 1. Giúp menu cố định tại 1 vị trí trên màn hình */
+  /* border: 1px solid #ddd; */
+  z-index: 1000;
+}
+
+.page-dt {
+  margin-top: 110px;
+}
+
+.p-content {
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-left: 40px;
+}
+
+.page-dangtin {
+  overflow-y: auto;
+  height: 100vh;
+  background-color: #f9f6ff;
+  
+}
+
+.dangtin {
+  background-color: white;
+  width: 70%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: black;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  scroll-margin-top: 100px; /* khi ghim tới không bị che bởi menu cố định*/
+}
+
+/* -----------thẻ tiêu đề---------------- */
+.dangtin h3 {
+  margin: 0;
+}
+
+/* --------chia layout thành 2 côt---------- */
+.khuvuc {
+  display: grid; /*Biến container .dt-left thành lưới.*/
+  grid-template-columns: 1fr 1fr; /* Chia thành 2 cột bằng nhau (1fr 1fr) */
+  gap: 20px; /* Khoảng cách giữa các cột và hàng là 20px */
+}
+/* -----------------các ô select------------------ */
+.dt-select-kv {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #9c6ade;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #ffffff;
+  color: black;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+  height: 45px;
+
+}
+/* ----------------ô inpit---------------- */
+.input-kv {
+  margin: 0;
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #9c6ade;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #ffffff;
+  color: black;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+  box-sizing: border-box; /* Giúp padding nằm GỌN trong width 100% */
+}
+
+
+/* ---------------map--------------------------- */
+
+.map {
+  width: 100%;
+}
+
+.map iframe {
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+/* ---------------thông tin tiêu đề ---------------- */
+
+.textarea-td {
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid #9c6ade;
+  color: black;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+  padding: 10px;
+  box-sizing: border-box; /* Giúp padding nằm GỌN trong width 100% */
+}
+
+.textarea-mt {
+  width: 100%;
+  height: 200px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid #9c6ade;
+  color: black;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+  padding: 10px;
+  box-sizing: border-box; /* Giúp padding nằm GỌN trong width 100% */
+}
+
+.ko-bt {
+  color: red;
+}
+
+.input-gt {
+  width: 75%;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid #9c6ade;
+  color: black;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+  padding: 10px;  
+  box-sizing: border-box; /* Giúp padding nằm GỌN trong width 100% */
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+.input-dt {
+  width: 91%;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid #9c6ade;
+  color: black;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+  padding: 10px;
+  box-sizing: border-box; /* Giúp padding nằm GỌN trong width 100% */
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+/* -----------------------upload hình ảnh---------------------- */
+
+.lable-ha {
+  width: 100%;
+  height: 150px;
+  border: 2px dashed #9c6ade; /*viền tím nét đứt */
+  border-radius: 10px;
+  margin-top: 10px;
+  cursor: pointer; /* Con trỏ chuột thành bàn tay */
+  transition: background-color 0.2s;
+  background-color: #e6e0f8;
+
+  /* Căn giữa nội dung bên trong */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.camera-icon {
+  font-size: 75px;
+  color: #9c6ade;
+  /* căn giữa icon */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ghichu-ha li {
+  color: #666; 
+  font-size: 12px;
+
+}
+
+.dt-ghichu {
+  color: #666; 
+  font-size: 12px;
+  margin: 2px;
+}
+
+/* -----------------nút đăng tin -------------------- */
+
+.btn-dt {
+  background-color: #9c6ade; 
+  width: 73%;
+  margin: auto;
+  margin-bottom: 20px;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+}
+
+/* -----------menu ghim--------------- */
+.menu-ghim {
+  display: flex;
+  gap: 20px;
+  padding-left: 40px;
+  padding-top: 10px;
+ 
+}
+
+.menu-ghim div {
+  cursor: pointer; /* Con trỏ chuột thành bàn tay */
+}
+
+.menu-ghim div:hover {
+  cursor: pointer; /* Con trỏ chuột thành bàn tay */
+}
+
+.menu-ghim div:focus {
+  color: #9c6ade;
+}
+
+
+

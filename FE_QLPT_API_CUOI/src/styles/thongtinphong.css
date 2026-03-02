@@ -1,0 +1,450 @@
+/* ----------------- BODY ------------------- */
+
+.body-ttp {
+  width: 80vw;
+  background-color: #f9f6ff;
+  margin-top: 70px;
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 20px;
+}
+
+/* ---------------- BODY LEFT (HÌNH ẢNH) ---------------- */
+
+.thongtin-ha {
+  width: 48vw;
+  background-color: #f9f6ff;
+  border-radius: 10px;
+  margin: 20px 0 20px 20px;
+}
+
+.thongtin-ttp {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* ---- KHUNG ẢNH LỚN ---- */
+.ttp-ha {
+  width: 100%;
+  height: 450px;
+  padding: 20px;
+  box-sizing: border-box;
+  position: relative; /* Để btn + bộ đếm nằm trên ảnh */
+}
+
+.ttp-ha img.main-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* ảnh nằm gọn trong khung chưa */
+  background-color: black;
+  border-radius: 10px;
+}
+
+.ttp-ha video.main-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* ảnh nằm gọn trong khung chưa */
+  background-color: black;
+  border-radius: 10px;
+}
+
+/* ----------------- NÚT MŨI TÊN ----------------- */
+.nav-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #9c6ade;
+  border: none;
+  font-size: 26px;
+  padding: 10px 14px;
+  cursor: pointer;
+  z-index: 5;
+  transition: 0.2s;
+  background-color: transparent; /*bg nút trông suốt*/
+  
+}
+
+.nav-btn :hover {
+  border: none;
+}
+
+
+.nav-btn.prev {
+  left: 20px;
+}
+
+.nav-btn.next {
+  right: 20px;
+}
+
+/* ----------------- SỐ ĐẾM ẢNH ----------------- */
+.image-counter {
+  position: absolute;
+  bottom: 15px;
+  right: 20px;
+  color: #9c6ade;
+  padding: 12px 12px;
+  
+  font-size: 14px;
+}
+
+/* ----------------- THUMBNAILS ----------------- */
+.thumbnail-list {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  padding: 10px 20px 5px 20px;
+  scrollbar-width: thin;
+  scrollbar-color: #ccc transparent;
+}
+
+.thumbnail-item {
+  width: 90px;
+  height: 65px;
+
+  cursor: pointer;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 2px solid transparent;
+  opacity: 0.6;
+  transition: 0.2s ease;
+}
+
+.thumbnail-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.thumbnail-item.active {
+  border-color: #9c6ade;
+  opacity: 1;
+  transform: scale(1.05);
+}
+
+.thumbnail-item:hover {
+  opacity: 1;
+}
+
+/* ------------------phần THUMBNAILS ds hình nhỏ--------------------- */
+/* Khung chứa thumbnail + nút trượt */
+.thumbnail-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0 40px; /* chừa chỗ nút mũi tên */
+  box-sizing: border-box;
+}
+
+/* Danh sách row thumbnail */
+.thumbnail-list {
+  display: flex;
+  gap: 12px;
+  overflow-x: hidden; /*  ẩn hình ảnh dư */
+  scroll-behavior: smooth;
+  width: 100%;
+  padding: 10px 0;
+}
+
+/* Mỗi thumbnail */
+.thumbnail-item {
+  width: 90px;
+  height: 65px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 2px solid transparent;
+  opacity: 0.6;
+  transition: 0.2s;
+}
+
+.thumbnail-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.thumbnail-item.active {
+  opacity: 1;
+  border-color: #9c6ade;
+  transform: scale(1.05);
+}
+
+.thumbnail-item:hover {
+  opacity: 1;
+}
+
+/* Mũi tên điều hướng */
+.thumb-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: black;
+  border: none;
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 3;
+  background-color: transparent;
+  outline: none !important;
+
+}
+
+.thumb-nav.prev {
+  left: 5px;
+}
+
+.thumb-nav.next {
+  right: 5px;
+}
+
+
+
+
+/* ---------------- PHẦN USER ------------------ */
+
+.thongtin-lh {
+  border-radius: 10px;
+  margin: 20px 20px 20px 0;
+  background-color: #f9f6ff;
+  color: black;
+  
+}
+
+.ttp-us-lh {
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.ttp-us-img img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid #666;
+  padding: 4px;
+  object-fit: cover;
+}
+
+.ttp-us {
+  display: flex;
+  gap: 20px;
+}
+
+.ttp-us-name h3 {
+  margin: 0;
+}
+
+.ttp-us-name div {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.ttp-us-name span,
+.ttp-us-name i {
+  color: #666;
+}
+
+/* ---------------- NÚT LIÊN HỆ / ĐẶT CỌC ---------------- */
+
+.ttp-btn {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding-top: 20px;
+}
+
+.ttp-btn-dc {
+  background-color: #f5f5f5;
+  color: black;
+  border: 1px solid #666;
+  outline: none !important;
+}
+
+.ttp-btn-lh {
+  background-color: #9c6ade;
+  color: white;
+  outline: none !important;
+}
+
+.ttp-us-bd {
+  padding-right: 20px;
+}
+
+/* ---------------- COMMENT ------------------ */
+
+.ttp-cm {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.ttp-cm-nt {
+  position: relative;
+  margin-top: 20px;
+}
+
+.input-cm-nt {
+  border-radius: 30px;
+  font-size: 15px;
+  padding: 10px 10px 10px 45px;
+  background-color: #f5f5f5;
+  border: none;
+  outline: none;
+  width: 100%;
+  color: black;
+  box-sizing: border-box;
+}
+
+.ttp-cm-nt .cm-nd i {
+  position: absolute;
+  left: 15px;
+  top: 70%;
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: #666;
+}
+
+.ttp-cm-nd {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.ttp-cm-nd i {
+  font-size: 50px;
+  color: #666;
+}
+
+/* hiện coment */
+.ttp-cm-list {
+  margin-top: 10px; 
+  max-height: 300px; 
+  overflow-y: auto;
+}
+
+/* css ngôi sao */
+.star-select {
+  display: flex;
+  gap: 5px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.star-select i{
+  padding: 3px;
+  font-size: 25px;
+}
+
+.star-select .cm-sao {
+  font-size: 15px;
+  color: #666;
+  display: flex;
+  align-items: flex-end; 
+  
+}
+
+.cm-sao-ngthue {
+  display: flex;
+  gap: 3px;
+
+}
+
+.ttp-cm-tieude {
+  display: flex;
+  justify-content: space-between;
+  font-size: 17px;
+}
+
+.div-ttcm-tb {
+  display: flex;
+  gap: 5px;
+}
+/* ---------------- TIÊU ĐỀ ------------------ */
+
+.ttp-td {
+  padding: 20px;
+  color: black;
+}
+
+.span-ttp-td {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.span-ttp-gia {
+  font-size: 25px;
+  font-weight: bold;
+  color: red;
+  padding-top: 10px;
+}
+
+.div-ttp-dc,
+.div-ttp-dt {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+/* ---------------- MÔ TẢ ------------------ */
+
+.ttp-mt {
+  background-color: white;
+  margin-top: 20px;
+  border-radius: 10px;
+  color: black;
+  padding: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.p-ttp-mt {
+  margin-top: 0;
+  font-size: 20px;
+  font-weight: bold;
+  
+}
+
+/* giữ lại dấu xuống dòng cho mô tả */
+.div-ttp-mt {
+  white-space: pre-wrap; 
+}
+
+/* ---------------- MAP ------------------ */
+
+.div-map iframe {
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+}
+
+/*----------------------------phòng tương tự-----------------------*/
+
+.page-ttp-ptt {
+  background-color: #f9f6ff;
+  padding: 20px;
+  padding-top: 0;
+  width: 80vw;
+
+}
+
+.ttp-ptt {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px; /* Padding bên trong form */
+  display: flex;
+  /* justify-content: space-between; */
+  gap: 10px;
+  flex-direction: column; /* Đặt nội dung theo cột (tiêu đề trên, sp dưới) */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}

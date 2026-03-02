@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f9f6ff;
+  display: flex;
+}
+
+.menu {
+  background-color: #ffffff;
+  padding: 10px 70px;
+  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+  width: 100vw;
+  box-sizing: border-box; /* Đảm bảo padding không làm tăng kích thước tổng thể */
+  margin: 0px; /* Loại bỏ khoảng cách mặc định */
+  position: fixed; /* 1. Giúp menu cố định tại 1 vị trí trên màn hình */
+  top: 0; /* 3. Đặt nó ở trên cùng */
+  left: 0;
+  /* 4. Đảm bảo nó luôn nằm TRÊN các nội dung khác */
+  z-index: 1000; /* Giá trị z-index cao để đảm bảo nó nằm trên cùng */
+  /* flex: 2; */
+  display: flex;  
+  
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* ----------------nút lọc-------------------- */
+.button-loc {
+  color: black;
+  background-color: #e6e0f8;
+  border: 2px solid #9c6ade;
+  border-radius: 30px;
+  display: flex; /* 1. Biến nút này thành flex container */
+  align-items: center; /* 2. Căn giữa mọi thứ BÊN TRONG nó theo chiều dọc */
+  gap: 5px;
+  flex: 2;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+}
+
+.button-loc i {
+  font-size: 20px;
+}
+
+/* ---------tìm kiếm ----------- */
+
+.timkiem {
+  position: relative; /* BẮT BUỘC: Để icon con căn theo thẻ này */
+}
+
+.input-timkiem {
+  border-radius: 30px;
+  font-size: 15px;
+
+  padding: 10px 10px 10px 0px;
+  padding-left: 45px; /* Tạo khoảng trống bên trái cho icon */
+  background-color: #f5f5f5;
+  border: none;
+  display: flex;
+  outline: none !important;
+  width: 500px;
+  color: black;
+}
+
+.timkiem i {
+  position: absolute; /* A. "Nổi" lên khỏi luồng trang */
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%); /* Căn giữa theo chiều dọc */
+
+  font-size: 20px;
+  color: #666;
+}
+
+/* ------------nút đăng nhâp--------------------- */
+.button-dangnhap {
+  color: black;
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 30px;
+  padding: 10px 20px;
+  font-size: 15px;
+  cursor: pointer;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+}
+
+.button-dangnhap:hover {
+  border: 1px solid #ddd;
+}
+
+/* ------------nút đăng tin--------------------- */
+.button-dangtin {
+  width: 120px;
+  color: white;
+  background: #9c6ade;
+  border-radius: 30px;
+  padding: 10px 20px;
+  font-size: 15px;
+  cursor: pointer;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+}
+
+/* -----------------user-------------------- */
+.button-user {
+  color: black;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 30px;
+  display: flex; /* 1. Biến nút này thành flex container */
+  align-items: center; /* 2. Căn giữa mọi thứ BÊN TRONG nó theo chiều dọc */
+  gap: 5px;
+  flex: 2;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+  justify-content: space-between;
+}
+
+.button-user i {
+  font-size: 20px;
+}
+
+.button-user:hover {
+  border: 1px solid #ddd;
+}
+
+/* --------------------message-------------------- */
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 50px;
+}
+
+
+/* --------------- */
+.user {
+  position: relative;
+  top: calc(100% + 8px); /* 2."đẩy tôi xuống dưới đáy của cha, cộng thêm 8px". */
+
+}
+

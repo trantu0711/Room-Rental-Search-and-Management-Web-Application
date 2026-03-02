@@ -1,0 +1,75 @@
+.page-xacnhan {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  z-index: 1000001;
+}
+
+/* giao diện popup */
+.xacnhan-popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1000002;
+}
+/*-----------------------phần icon và nd---------------------------------*/
+.xacnhan-nd {
+  width: 400px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  justify-content: center;
+  align-items: center;
+}
+
+/* phần icon trong popup */
+.xacnhan-icon {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+/* phần message trong popup */
+.xacnhan-message {
+  padding: 5px;
+}
+
+.xacnhan-message h3 {
+  margin: 0 0 10px 0;
+  font-size: 18px;
+}
+
+.xacnhan-message p {
+  margin: 0 0 10px 0;
+}
+
+.xacnhan-btn {
+  display: flex;
+  gap: 15px;
+}
+/* --------------------------nut -----------------------*/
+.btn-xn-huy {
+  background-color: #f6f6f6;
+  color: black;
+  border: 1px solid #ddd;
+  outline: none !important;
+  height: 40px;
+}
+
+.btn-xn-huy:hover {
+  border: 1px solid #ddd;
+}
+
+.btn-xn-xacnhan {
+  background-color: #9C6ADE;
+  color: white;
+  outline: none !important;
+  height: 40px;
+}

@@ -1,0 +1,105 @@
+
+
+.form-pop-ttcn {
+  /* Xóa các dòng position: absolute, top, right cũ đi */
+  
+  background-color: white;
+  width: 500px;
+  height: 95%;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+  
+  /* Quan trọng: Để ngăn sự kiện click bên trong làm đóng popup */
+  position: relative; 
+  z-index: 10000;
+  /* Thêm chút hiệu ứng xuất hiện cho mượt (tuỳ chọn) */
+  /* animation: scaleUp 0.3s ease-in-out; */
+  overflow-y: auto;
+}
+
+/* @keyframes scaleUp {
+  from { transform: scale(0.8); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+} */
+
+/* ---------phần container thông tin cá nhân--------- */
+
+.thongtincanhan-container {
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.thongtincanhan-form {
+  background-color: white;
+  margin: auto;
+  color: black;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+/* ---------phần ảnh đại diện--------- */
+
+.form-ttcn-img {
+  display: flex;
+  justify-content: center;
+  cursor: pointer; /* Con trỏ chuột thành bàn tay */
+}
+
+.form-ttcn-img img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: 1px solid #666;
+  padding: 4px;
+  object-fit: cover; /*ảnh không bị méo */
+}
+
+.ttcn-camera-icon {
+  width: 25px;
+  height: 25px;
+  font-size: 20px;
+  text-align: center;
+  background-color: white;
+  border-radius: 50%;
+  border: 1px solid #666;
+  margin-left: -26px;
+  margin-top: 50px;
+  cursor: pointer; /* Con trỏ chuột thành bàn tay */
+}
+
+/* ---------phần thông tin cá nhân--------- */
+.input-ttcn {
+  width: 100%;
+  padding: 14px 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: var(--input-bg);
+  box-sizing: border-box;
+  color: black;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+}
+
+.input-ttcn:focus {
+  border-color: #9c6ade;
+}
+
+/*--------- nut lưu thay đổi--------------- */
+.div-ttcn-btn {
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.button-ttcn-save {
+  width: 100%;
+  color: white;
+  background: #9c6ade;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 15px;
+  cursor: pointer;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+}

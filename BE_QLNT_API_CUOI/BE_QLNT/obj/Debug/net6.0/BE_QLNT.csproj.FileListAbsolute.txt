@@ -1,0 +1,569 @@
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\appsettings.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.exe
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.deps.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.runtimeconfig.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.pdb
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Humanizer.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.AssemblyReference.cache
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfoInputs.cache
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfo.cs
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.CoreCompileInputs.cache
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets\msbuild.BE_QLNT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets\msbuild.build.BE_QLNT.props
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BE_QLNT.props
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BE_QLNT.props
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\scopedcss\bundle\BE_QLNT.styles.css
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.CopyComplete
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\refint\BE_QLNT.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.pdb
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.genruntimeconfig.cache
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\obj\Debug\net6.0\ref\BE_QLNT.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.runtime.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\appsettings.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.runtime.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.endpoints.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.exe
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.deps.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.runtimeconfig.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BE_QLNT.pdb
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.AssemblyReference.cache
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfoInputs.cache
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfo.cs
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\scopedcss\bundle\BE_QLNT.styles.css
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.Up2Date
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\refint\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.pdb
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\BE_QLNT.genruntimeconfig.cache
+D:\Đồ Án\Luận văn\ban_1.0\BE_QLNT\BE_QLNT\obj\Debug\net6.0\ref\BE_QLNT.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\appsettings.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.runtime.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.exe
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.deps.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.runtimeconfig.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.pdb
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Humanizer.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.AssemblyReference.cache
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfoInputs.cache
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfo.cs
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.CoreCompileInputs.cache
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets\msbuild.BE_QLNT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets\msbuild.build.BE_QLNT.props
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BE_QLNT.props
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BE_QLNT.props
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\scopedcss\bundle\BE_QLNT.styles.css
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.CopyComplete
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\refint\BE_QLNT.dll
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.pdb
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.genruntimeconfig.cache
+C:\Users\84918\OneDrive\Tài liệu\QLSV bang c++\thaytung\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\ref\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\appsettings.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.runtime.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.endpoints.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.exe
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.deps.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.runtimeconfig.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BE_QLNT.pdb
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.AssemblyReference.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfoInputs.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfo.cs
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\scopedcss\bundle\BE_QLNT.styles.css
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.Up2Date
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\refint\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.pdb
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\BE_QLNT.genruntimeconfig.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\obj\Debug\net6.0\ref\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API\BE_QLNT\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\appsettings.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.endpoints.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.runtime.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\BE_QLNT.exe
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\BE_QLNT.deps.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\BE_QLNT.runtimeconfig.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\BE_QLNT.pdb
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.AssemblyReference.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\BE_QLNT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfoInputs.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfo.cs
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\scopedcss\bundle\BE_QLNT.styles.css
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.Up2Date
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\refint\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\BE_QLNT.pdb
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\BE_QLNT.genruntimeconfig.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_1\BE_QLNT\obj\Debug\net6.0\ref\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\appsettings.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.endpoints.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.runtime.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\BE_QLNT.exe
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\BE_QLNT.deps.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\BE_QLNT.runtimeconfig.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\BE_QLNT.pdb
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.AssemblyReference.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\BE_QLNT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfoInputs.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfo.cs
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\scopedcss\bundle\BE_QLNT.styles.css
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.Up2Date
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\refint\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\BE_QLNT.pdb
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\BE_QLNT.genruntimeconfig.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2\BE_QLNT\obj\Debug\net6.0\ref\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\appsettings.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.endpoints.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\BE_QLNT.staticwebassets.runtime.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\BE_QLNT.exe
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\BE_QLNT.deps.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\BE_QLNT.runtimeconfig.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\BE_QLNT.pdb
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.AssemblyReference.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\BE_QLNT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfoInputs.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\BE_QLNT.AssemblyInfo.cs
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\BE_QLNT.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\scopedcss\bundle\BE_QLNT.styles.css
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\BE_QLNT.csproj.Up2Date
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\refint\BE_QLNT.dll
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\BE_QLNT.pdb
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\BE_QLNT.genruntimeconfig.cache
+D:\Đồ Án\Luận văn\ban_2.0\BE_QLNT_API_2_moinhat\BE_QLNT\obj\Debug\net6.0\ref\BE_QLNT.dll

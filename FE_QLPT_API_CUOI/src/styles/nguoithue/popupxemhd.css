@@ -1,0 +1,71 @@
+
+.form-pop-xemhd {
+  /* Xóa các dòng position: absolute, top, right cũ đi */
+  
+  background-color: white;
+  width: 50%;
+  height: 95%;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+  
+  /* Quan trọng: Để ngăn sự kiện click bên trong làm đóng popup */
+  position: relative; 
+  z-index: 10000;
+  /* Thêm chút hiệu ứng xuất hiện cho mượt (tuỳ chọn) */
+  /* animation: scaleUp 0.3s ease-in-out; */
+  overflow-y: auto;
+}
+
+/* ---------phần container thông tin cá nhân--------- */
+
+.xemhd-container {
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.xemhd-form {
+  background-color: white;
+  margin: auto;
+  color: black;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.xemhd-form iframe {
+  width: 100%;
+  height: 560px;
+  border: none;
+  margin-top: 10px;
+}
+
+.xemhd-form h2 {
+  color: black;
+  margin-bottom: -5px;
+  margin: 0;
+}
+
+.xemhd-form span {
+  padding: 20px 0;
+  color: red;
+}
+
+.hd-trong {
+  width: 100%;
+  height: 100%;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 200px;
+}
+
+.hd-trong i {
+    font-size: 100px;
+    color: #b5b5b5;
+}
+
+.hd-trong span {
+  font-size: 25px;
+  color: #b5b5b5;
+}

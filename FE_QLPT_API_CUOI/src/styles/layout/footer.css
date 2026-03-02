@@ -1,0 +1,147 @@
+.page-footer {
+    color: black;
+    width: 100% ;
+    margin-bottom: 30px;
+}
+
+
+/* ------------phần contact footer--------------------- */
+
+.footer-contact {
+    position: absolute;
+    top: -230px; /* Nâng phần contact lên trên */
+    background-color: #9c6ade;
+    padding: 50px;
+    box-sizing: border-box;/* không làm bể layout */
+    position: relative; /* BẮT BUỘC: Để icon con căn theo thẻ này */
+    width: 80vw;
+    margin: auto; /* căn giữa ngang */
+    border-radius: 20px;
+    margin-top: 330px; /* Tạo khoảng cách trên để hiển thị icon */
+    display: grid;
+    grid-template-columns: 2fr 1.5fr;
+    gap: 30px;
+}
+
+
+/* ------------icon footer------------- */
+.icon-footer {
+    position: absolute; /* A. "Nổi" lên khỏi luồng trang */
+    top: -60px; /* nửa chiều cao icon (120/2) */
+    left: 15%;
+    transform: translateX(-50%);
+    z-index: 1; /* Đảm bảo icon nằm trên các phần tử khác */
+
+    background-color: #e6e0f8;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    display: flex ;                  /* 1. Biến nút này thành flex container */
+    justify-content: center;        /* 2. Căn giữa theo chiều ngang */
+    align-items: center;            /* 3. Căn giữa mọi thứ BÊN TRONG nó theo chiều dọc */
+    color: #9c6ade;
+
+}
+
+.icon-footer i {
+    font-size: 50px;
+}
+
+/* ------------text footer contact------------- */
+.footer-contact-text {
+    padding-top: 30px;
+    padding: 40px;
+}
+
+.hr-footer {
+    background-color: #9c6ade;
+    width: 80%;
+}
+
+.footer-contact-text-1 {
+    color: white;
+    font-size: 30px;
+    padding-top: 50px;
+    width: 60%;
+}
+
+.footer-contact-text-2 {
+    color: black;
+    font-size: 20px;
+    padding-top: 20px;
+    width: 80%;
+    line-height: 1.6; /* Tăng khoảng cách giữa các dòng */
+}
+
+/* ------------phone footer contact------------- */
+.footer-contact-phone {
+    margin: 40px;
+    color: white;
+    font-size: 30px;
+    
+    display: flex;
+    align-items: end;
+    justify-content: end;
+}
+
+.footer-contact-phone span {
+    color: #9c6ade;
+    background-color: white;
+    border-radius: 40px;
+    padding: 10px 40px;
+    font-weight: bold;
+}
+
+/* ------------phần bản quyền footer--------------------- */
+
+.footer-info {
+    position: relative;
+    color: black;
+    background-color: #e6e0f8;
+    border-radius: 20px;
+    width: 95%;
+    margin: auto; /* căn giữa ngang */
+}
+
+.footer-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 120px;
+    padding-bottom: 50px;
+    margin-top: -150px; /* nâng phần link lên trên */
+}
+
+.footer-link-logo img {
+    width: 150px;
+}
+
+/* ------------mạng xã hội footer--------------------- */
+.footer-mxh {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    gap: 30px;
+    font-size: 30px;
+
+}
+
+.mxh {
+    color: #9c6ade;
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.footer-banquyen {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 120px;
+    font-size: 20px;
+}
+
+.chinhsach {
+    display: flex;
+    gap: 30px;
+}

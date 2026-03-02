@@ -1,0 +1,189 @@
+.page-ds {
+  padding-top: 110px;
+  box-sizing: border-box;
+  height: 100vh; /* Cần chiều cao cố định để scroll */
+  overflow-y: overlay; /* Thanh cuộn đè lên nội dung */
+}
+
+/* -------------phần hedear----------------- */
+.content-ds {
+  background-color: #f9f6ff;
+  color: black;
+  height: 89px;
+  /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); */
+  padding: 0;
+  margin: 0;
+  width: 79.4%;
+  position: fixed; /* 1. Giúp menu cố định tại 1 vị trí trên màn hình */
+  /* border: 1px solid #ddd; */
+  z-index: 1000;
+}
+
+
+.p-content-ds {
+  margin: 0; /*reset thuộc tính thẻ p*/
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-left: 40px;
+  box-sizing: border-box;
+}
+
+
+/* ------------phần ds sp------------------ */
+.list-ds {
+  display: grid;
+  /* Chia thành 4 cột bằng nhau (1fr = 1 phần) */
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  margin: 0 20px 20px 20px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.card-ds {
+  border-radius: 8px;
+  padding: 20px; /* Padding bên trong card */
+  text-align: left;
+  transition: all 0.3s ease;
+  border: 1px solid #ddd;
+  background-color: white;
+  box-sizing: border-box;
+}
+
+/* ------------------------phần nội dung ds-------------------- */
+.div-nd {
+  display: grid;
+  gap: 5px;
+}
+
+.div-ma {
+  display: flex;
+  justify-content: space-between;
+  color: #666;
+  font-size: 14px;
+}
+.p-ma {
+  margin: 0;
+}
+
+.p-ma i {
+  padding-right: 5px;
+}
+
+.p-trangthai {
+  margin: 0;
+  color: green;
+}
+
+.p-gia {
+  margin: 0px;
+  color: red;
+}
+
+.p-dt {
+  margin: 0px;
+  color: #666;
+}
+
+.p-ngayhh i {
+  color: #666;
+  padding-right: 5px;
+}
+
+.p-ngayhh {
+  color: #666;
+  margin: 0;
+}
+/* -----------nút xem thêm------------------- */
+.btn-ds-xt button {
+  background-color: #9c6ade;
+  outline: none !important;
+}
+
+.btn-ds-xt {
+  align-items: center;
+  justify-content: center;
+  display: grid;
+}
+
+/* ------------------nút xóa sửa------------------- */
+.btn-ds {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding: 10px 0 0 0;
+}
+
+.btn-ds-sua {
+  background-color: #ecd453;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+}
+
+.btn-ds-sua:hover {
+  border: none;
+}
+
+.btn-ds-xoa {
+  background-color: #fd5d66;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+}
+
+.btn-ds-xoa:hover {
+  border: none;
+}
+/* --------------------thanh tìm kiếm---------------------- */
+.page-ds-tk {
+  position: relative; /* BẮT BUỘC: Để icon con căn theo thẻ này */
+}
+
+.card-td p {
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Số dòng bạn muốn hiển thị */
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden; /* Ẩn phần text bị thừa ra */
+  text-overflow: ellipsis;
+
+  /* Đảm bảo chiều cao dòng hợp lý để không bị cắt chữ */
+  line-height: 1.4em;
+  max-height: 2.8em; /* line-height x số dòng (1.4 x 2 = 2.8) */
+}
+
+.btn-ds-thanhtoan {
+  width: 100%;
+  background-color: green;
+  outline: none !important; /* Loại bỏ viền mặc định khi nhấn */
+  margin: 10px 0 0 0;
+  z-index: -1;
+}
+
+/* Chọn tất cả các nút có thuộc tính disabled */
+button:disabled {
+  opacity: 0.5; /* Làm mờ đi 50% */
+  cursor: not-allowed; /* Đổi con trỏ chuột thành hình tròn gạch chéo */
+  pointer-events: none; /* (Tùy chọn) Chặn hoàn toàn sự kiện chuột */
+  background-color: #ccc; /* (Tùy chọn) Đổi màu nền thành xám */
+  color: black;
+  z-index: 1;
+}
+
+.ds-macdinh {
+  width: 100%;
+  height: 80%;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.ds-macdinh i {
+    font-size: 100px;
+    color: #b5b5b5;
+}
+
+.ds-macdinh span {
+  font-size: 25px;
+  color: #b5b5b5;
+}

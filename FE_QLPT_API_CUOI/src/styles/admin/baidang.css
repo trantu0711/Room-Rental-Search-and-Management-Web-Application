@@ -1,0 +1,150 @@
+.table-data {
+  width: 100%;
+  color: black;
+  border-collapse: collapse; /* loai bỏ khoảng trống giữa các ô */
+}
+
+.table-data th {
+  padding: 15px 20px;
+  text-align: start;
+
+  position: sticky;    /* Giữ cố định */
+  top: 0;              /* Dính chặt lên đỉnh của .user-data */
+  background-color: #fff; /* BẮT BUỘC: Phải có màu nền, nếu không chữ sẽ trôi đè lên nhau */
+  z-index: 10;         /* Đảm bảo nó nằm đè lên nội dung khi cuộn */
+}
+
+.table-data tbody tr td {
+  padding: 10px 20px;
+  color: black;
+  text-align: start;
+  border-bottom: 2px solid #f0f0f0; /* đường kẻ mờ giữa các dòng*/
+  background-color: transparent;
+}
+
+
+.table-data tbody tr:hover td {
+  background-color: #f0f0f0;
+}
+
+/* Định nghĩa độ rộng cho từng cột bằng % */
+.table-data th:nth-child(1) {
+  width: 10%;
+} /* ID */
+.table-data th:nth-child(2) {
+  width: 35%;
+} /* Tiêu đề (Rộng nhất) */
+.table-data th:nth-child(3) {
+  width: 20%;
+} /* Người đăng */
+.table-data th:nth-child(4) {
+  width: 20%;
+} /* Hành động */
+.table-data th:nth-child(5) {
+  width: 15%;
+} /* Hành động */
+
+/* ----------------------nút hành động ------------------ */
+.bd-btn-xem {
+  background-color: transparent;
+  color: black;
+  outline: none !important;
+  padding: 0;
+  border: none;
+  /* border-bottom: 1px solid black; */
+  border-radius: 0;
+}
+
+.bd-btn-duyet {
+  background-color: transparent;
+  color: black;
+  outline: none !important;
+  padding: 0;
+  border: none;
+  /* border-bottom: 1px solid black; */
+  border-radius: 0;
+  border-left: 2px solid #f0f0f0;
+  border-right: 2px solid #f0f0f0;
+  padding: 0 10px;
+}
+
+.bd-btn-duyet:hover {
+  border-left: 2px solid #f0f0f0;
+  border-right: 2px solid #f0f0f0;
+}
+
+.bd-btn {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.bd-btn-xem i {
+  font-size: 20px;
+}
+
+.bd-btn-xem:hover {
+  border: none;
+  /* border-bottom: 1px solid black; */
+}
+
+/* ---------------------trạng thái-------------- */
+/* chờ duyệt */
+.td-bt-cd {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  border-radius: 20px;
+  background-color: rgba(255, 200, 0, 0.18);
+  border: 1px solid rgba(255, 200, 0, 0.25); /* viền mờ */
+  backdrop-filter: blur(6px); /* tạo hiệu ứng mờ */
+  -webkit-backdrop-filter: blur(
+    6px
+  ); /* dùng để tạo hiệu ứng làm mờ nền phía sau một phần tử — kiểu như hiệu ứng kính mờ (glassmorphism).*/
+  border-radius: 50px;
+  padding: 2px 2px;
+  font-size: 14px;
+  color: #f3c54b;
+}
+
+/* đã duyệt */
+.td-bt-dd {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  border-radius: 20px;
+  border: 1px solid rgba(0, 255, 100, 0.25); /* viền mờ */
+  backdrop-filter: blur(6px); /* tạo hiệu ứng mờ */
+  -webkit-backdrop-filter: blur(
+    6px
+  ); /* dùng để tạo hiệu ứng làm mờ nền phía sau một phần tử — kiểu như hiệu ứng kính mờ (glassmorphism).*/
+  border-radius: 50px;
+  padding: 2px 2px;
+  font-size: 14px;
+  background-color: rgba(0, 255, 100, 0.15); /* xanh lá trong suốt */
+  color: #06ff74;
+}
+
+/* từ chối */
+.td-bt-tc {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 0, 0, 0.25); /* viền mờ */
+  backdrop-filter: blur(6px); /* tạo hiệu ứng mờ */
+  -webkit-backdrop-filter: blur(
+    6px
+  ); /* dùng để tạo hiệu ứng làm mờ nền phía sau một phần tử — kiểu như hiệu ứng kính mờ (glassmorphism).*/
+  border-radius: 50px;
+  padding: 2px 2px;
+  font-size: 14px;
+  background: rgba(255, 0, 0, 0.15); /* đỏ trong suốt */
+  color: #ff4d4d;
+}

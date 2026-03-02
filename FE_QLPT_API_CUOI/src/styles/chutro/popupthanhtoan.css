@@ -1,0 +1,232 @@
+/* 1. Thiết lập cho lớp nền bao ngoài (QUAN TRỌNG) */
+.popup-overlay {
+  /* Phủ kín màn hình */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  /* Màu nền mờ đen */
+  /* background-color: transparent; */
+  z-index: 999;
+  background-color: rgba(255, 255, 255, 0.6);
+
+
+  /* Dùng Flexbox để căn giữa thẻ con bên trong */
+  display: flex;
+  justify-content: center;
+  /* Căn giữa ngang */
+  align-items: center;
+  /* Căn giữa dọc */
+
+}
+
+/* 2. Form của bạn */
+.form-pop-tt {
+
+  position: relative;
+  z-index: 1000;
+  padding: 20px 0;
+  background-color: white;
+  width: 60%;
+  height: 80%;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+  overflow-y: auto;
+
+  top: 5%;
+  left: 9.7%;
+  transform: translateY(-50% -50%);
+}
+
+/* title */
+.tt-tieude {
+  margin: 0;
+  color: black;
+  padding: 0 20px;
+}
+
+.p-gch {
+  padding-left: 20px;
+  color: red;
+  margin: 0;
+  margin-top: 10px;
+}
+
+.page-tt {
+  color: black;
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+
+  /* border: 1px solid black; */
+}
+
+.tt-form-chon {
+  border-right: 1px solid #e6e0f8;
+}
+
+/* .tt-form-ttin {
+  border: 1px solid blue;
+} */
+
+.form-chon-tg {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 0px 20px;
+  gap: 20px;
+}
+
+.tt-theotuan {
+  border: 2px solid #9c6ade;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+/* ẩn checkbox mặt định đi */
+.check-tt {
+  display: none;
+}
+
+/* khi checkbox đc chọn thì kéo theo con nó là .tt-theotuan  */
+.check-tt:checked+.tt-theotuan {
+  background-color: #e6e0f8;
+  border: 2px solid #9c6ade;
+  border-radius: 10px;
+}
+
+.div-tgian {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* tiêu đề */
+.tt-h3 {
+  margin: 0;
+  padding: 20px;
+}
+
+.tt-gia {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+/* -----------------thông tin thanh toán--------------------------- */
+.tt-thanhtoan {
+  padding: 0px 20px;
+}
+
+.tt-tongcong {
+  margin: 20px;
+  padding: 10px;
+  background-color: #e6e0f8;
+  border-radius: 10px;
+  margin-bottom: 0;
+}
+
+.tt-tongcong hr {
+  background-color: #fff;
+}
+
+/* khung bên ngoài*/
+.tt-lable-pt {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 20px;
+  padding: 12px 14px;
+  margin-bottom: 10px;
+  border: 2px solid #9c6ade;
+  border-radius: 8px;
+  cursor: pointer;
+
+}
+
+/* Ẩn radio gốc */
+.tt-lable-pt input {
+  display: none;
+}
+
+/* Radio custom */
+.tt-custom-radio {
+  width: 14px;
+  height: 14px;
+  border: 2px solid #9c6ade;
+  border-radius: 50%;
+  position: relative;
+}
+
+/* Chấm tròn bên trong khi chọn */
+.tt-custom-radio::after {
+  content: "";
+  width: 8px;
+  height: 8px;
+  background: #9c6ade;
+  border-radius: 50%;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+}
+
+/* Text */
+.tt-text {
+  font-weight: 600;
+  color: black;
+}
+
+/* Khi radio được chọn */
+.tt-lable-pt input:checked~.tt-custom-radio {
+  border-color: #9c6ade;
+}
+
+.tt-lable-pt input:checked~.tt-custom-radio::after {
+  opacity: 1;
+}
+
+.tt-lable-pt:has(input:checked) {
+  border-color: #9c6ade;
+  background: #e6e0f8;
+}
+
+/* nút thanh toán */
+.tt-btn-thanhtoan {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+
+}
+
+.tt-btn-thanhtoan button {
+  background-color: #9c6ade;
+  width: 100%;
+}
+
+/* thông tin cá nhân */
+.tt-input-ttcn {
+  margin: 0;
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #9c6ade;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #ffffff;
+  color: black;
+  outline: none !important;
+  /* Loại bỏ viền mặc định khi nhấn */
+  box-sizing: border-box;
+  /* Giúp padding nằm GỌN trong width 100% */
+}
+
+.tt-goi {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tt-goi p {
+  margin: 5px;
+
+}

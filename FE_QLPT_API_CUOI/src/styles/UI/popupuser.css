@@ -1,0 +1,94 @@
+.form-pop-user {
+  color: black;
+  background-color: white;
+  width: 330px; /* Chiều rộng cố định */
+  border-radius: 20px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+  padding: 20px;
+
+  position: absolute; /* 1. "Trôi" ra khỏi luồng trang */
+  
+  z-index: 100;
+  top: calc(100% + 22px); /* 2."đẩy tôi xuống dưới đáy của cha, cộng thêm 8px". */
+  right: 0;
+}
+
+/* -----------hình ảnh------------ */
+
+.form-us-img {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.form-us-img img {
+  
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: 1px solid #666;
+  padding: 4px;
+  object-fit: cover; /*ảnh không bị méo */
+}
+
+/* -------------------name------------- */
+.form-us-name {
+    margin-top: -10px;
+    text-align: center;
+}
+
+/* --------------------ql bai dang---------------------- */
+.form-us-bd {
+    background-color: #e6e0f8;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+
+.form-us-ql {
+    padding: 5px;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+/* -----------ql bài dăng---------- */
+
+.form-us-ql div {
+  display: flex;
+  flex-direction: column; /* Xếp icon và chữ theo chiều dọc */
+  align-items: center;   /* Căn giữa icon và chữ theo chiều ngang */
+  gap: 4px;                /* Khoảng cách nhỏ giữa icon và chữ */
+  cursor: pointer;         /* Thêm hiệu ứng con trỏ cho dễ nhấn */
+  color: black;
+  font-size: 15px;
+}
+
+.form-us-ql i {
+  font-size: 20px;
+}
+
+
+/* ---------------------------------------- */
+.us-qltk {
+  padding-top: 15px;
+  cursor: pointer;         /* Thêm hiệu ứng con trỏ cho dễ nhấn */
+  color: black;
+}
+
+/* 1. Lớp nền mờ che toàn bộ màn hình */
+.popup-overlay {
+  position: fixed; /* Cố định theo màn hình */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  /* background-color: rgba(0, 0, 0, 0.5); Màu đen mờ 50% */
+  z-index: 9999; /* Đảm bảo nó đè lên tất cả mọi thứ */
+  
+  /* Dùng Flexbox để căn giữa nội dung bên trong */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

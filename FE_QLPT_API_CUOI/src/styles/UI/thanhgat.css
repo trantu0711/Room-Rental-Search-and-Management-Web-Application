@@ -1,0 +1,58 @@
+/* Khung chứa nút gạt */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 70px;
+  height: 24px;
+}
+
+/* Ẩn checkbox thật đi */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0; 
+}
+
+/* Thanh trượt (Slider) */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 0, 0, 0.15); /* đỏ trong suốt  Màu khi tắt (Khóa) */
+  transition: .4s;
+  border-radius: 34px;
+  backdrop-filter: blur(6px); /* tạo hiệu ứng mờ */
+  -webkit-backdrop-filter: blur(
+    6px
+  ); /* dùng để tạo hiệu ứng làm mờ nền phía sau một phần tử — kiểu như hiệu ứng kính mờ (glassmorphism).*/
+}
+
+/* Cục tròn bên trong */
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 16px;
+  width: 16px;
+  left: 4px; 
+  bottom: 4px;
+  background-color: white;
+  transition: .4s; /* chuyển động */
+  border-radius: 50%;
+}
+
+/* Khi checkbox được chọn (Mở khóa) */
+input:checked + .slider {
+  background-color: rgba(0, 255, 100, 0.15); /* xanh lá trong suốt */ /* Màu tím khi mở (Active) */
+  backdrop-filter: blur(6px); /* tạo hiệu ứng mờ */
+  -webkit-backdrop-filter: blur(
+    6px
+  ); /* dùng để tạo hiệu ứng làm mờ nền phía sau một phần tử — kiểu như hiệu ứng kính mờ (glassmorphism).*/
+}
+
+/* Di chuyển cục tròn khi chọn */
+input:checked + .slider:before {
+  transform: translateX(45px);
+}

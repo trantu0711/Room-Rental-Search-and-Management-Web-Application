@@ -1,0 +1,11 @@
+# Backend
+bin/
+obj/
+
+# Frontend
+node_modules/
+dist/
+
+# Config
+appsettings.Development.json
+.env

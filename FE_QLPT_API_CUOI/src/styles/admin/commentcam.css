@@ -1,0 +1,63 @@
+.tucam-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.tc-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    gap: 20px;
+}
+
+.tc-table {
+    width: 100%;
+    border-collapse: collapse; /* loai bỏ khoảng trống giữa các ô */
+}
+
+.tc-table thead tr th {
+    color: black;
+    text-align: start;
+    padding: 15px 20px;
+    position: sticky;
+    /* Giữ cố định */
+    top: 0;
+    /* Dính chặt lên đỉnh của .user-data */
+    background-color: #fff;
+    /* BẮT BUỘC: Phải có màu nền, nếu không chữ sẽ trôi đè lên nhau */
+    z-index: 10;
+    /* Đảm bảo nó nằm đè lên nội dung khi cuộn */
+
+
+}
+
+.tc-table tbody tr td {
+    padding: 10px 20px;
+    color: black;
+    text-align: start;
+    border-bottom: 2px solid #f0f0f0;
+    /* đường kẻ mờ giữa các dòng*/
+    background-color: transparent;
+}
+
+.tc-table tbody tr:hover td {
+  background-color: #f0f0f0;
+}
+
+
+.tc-table th:nth-child(1) {
+    width: 20%;
+}
+
+/* ID */
+.tc-table th:nth-child(2) {
+    width: 60%;
+}
+
+/* Tiêu đề (Rộng nhất) */
+.tc-table th:nth-child(3) {
+    width: 20%;
+}   

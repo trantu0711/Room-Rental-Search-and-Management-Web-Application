@@ -1,0 +1,127 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+/* Tùy chỉnh thanh cuộn cho toàn bộ các phần tử trong popup */
+
+/* 1. Độ rộng của thanh cuộn */
+::-webkit-scrollbar {
+  width: 8px; /* Chiều rộng (cho cuộn dọc) */
+  height: 8px; /* Chiều cao (cho cuộn ngang) */
+}
+
+/* 2. Phần nền (đường ray) của thanh cuộn */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Màu nền xám nhạt */
+  border-radius: 10px; /* Bo tròn đường ray */
+}
+
+/* 3. Phần tay nắm (cục trượt) */
+::-webkit-scrollbar-thumb {
+  background: #ccc; /* Màu tay nắm (xám đậm hơn) */
+  border-radius: 10px; /* Bo tròn tay nắm (QUAN TRỌNG) */
+}
+
+/* 4. Hiệu ứng khi di chuột vào tay nắm */
+::-webkit-scrollbar-thumb:hover {
+  background: #888; /* Đổi màu đậm hơn khi hover */
+}
+/* đổi màu ô input khi chọn gợi ý mặc định trình duyệt */
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus {
+  -webkit-box-shadow: 0 0 0 1000px #f9f6ff inset !important; /* màu nền */
+  box-shadow: 0 0 0 1000px #f9f6ff inset !important;
+  -webkit-text-fill-color: #000 !important; /* màu chữ */
+}
+
+/* #E3F2FD   xanh nhạt kiểu Google
+#F2F6FF   xanh nhạt pastel
+#EEF4FF   tím nhạt */
+
+/* select option:hover {
+  background-color: #F3E8FF !important; /* tím nhạt */
+/* }
+
+select option:checked {
+  background-color: #E9D5FF !important; /* tím highlight */
+/* } */ 
+
+/* loại bỏ mũi tên số trong input type number */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+
