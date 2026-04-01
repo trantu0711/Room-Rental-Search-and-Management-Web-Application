@@ -5,7 +5,7 @@
 Một ứng dụng web fullstack kết nối người thuê và chủ nhà, cho phép người dùng tìm kiếm, đăng tải và quản lý danh sách cho thuê một cách hiệu quả. 
 
 ## Công nghệ 
-- ASP.NET Core Web API 
+- ASP.NET Core Web API C#
 - ReactJS 
 - SQL Server 
 - Xác thực JWT 
@@ -24,6 +24,6 @@ Một ứng dụng web fullstack kết nối người thuê và chủ nhà, cho 
 - Xem chi tiết phòng
   
 ## Kiến trúc 
-- Backend: API RESTful 
+- Backend: API RESTful C#
 - Frontend: SPA dựa trên React 
 - Cơ sở dữ liệu: SQL Server
